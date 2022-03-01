@@ -6,7 +6,7 @@
 - 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/emanuele-di-pietro-47408920b/
 - Instagram: https://www.instagram.com/chiapposky_/
-
+- Email: emanueledipietro@hotmail.it
 <!---
 emadip97/emadip97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
